@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765761463633",
+    "project_id": "bikestoret-86b0c",
+    "storage_bucket": "bikestoret-86b0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765761463633:android:1a84984064374be5789f70",
+        "android_client_info": {
+          "package_name": "com.bikestoret.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765761463633-2tdbed5a9udrjr3p521kaqm67hpki7i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeXkPWMnSyhPouqq1mQdOht2HEsSCNkvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765761463633-2tdbed5a9udrjr3p521kaqm67hpki7i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
